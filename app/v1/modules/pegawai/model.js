@@ -17,4 +17,4 @@ const Pegawai = mongoose.Schema({
   }
 })
 
-module.exports = mongoose.model('pegawai', Pegawai)
+module.exports = mongoose.model('pegawais', Pegawai)
